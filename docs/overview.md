@@ -14,7 +14,11 @@ We encrypt your API key and store it securely, so it can be used to authenticate
 
 You can then use the Proxana proxy URL in your application in place of the original service URL. Proxana will automatically inject your API key into the requests, allowing you to securely access the service without exposing your API key in your frontend code.
 
-> TODO: Add diagram of how Proxana works
+### Without Proxana
+![Without Proxana](../static/img/NoProxana.png)
+
+### With Proxana
+![With Proxana](../static/img/WithProxana.png)
 
 ## Benefits of using Proxana
 

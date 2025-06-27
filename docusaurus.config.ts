@@ -36,7 +36,7 @@ const config: Config = {
       "posthog-docusaurus",
       {
         apiKey: "phc_9HX1M1b6J7UVuCvvDPcZQyTG7wovrqFaP2fFT4X7gSR",
-        appUrl: "https://eu.i.posthog.com",
+        appUrl: "https://evph.proxana.dev",
         enableInDevelopment: true,
       },
     ],
